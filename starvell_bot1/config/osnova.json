@@ -1,0 +1,12 @@
+{
+    "BOT_TOKEN": "7714786532:AAHt5HoP_xR_suOGLLl5CYOFFop0WmUMHKY",
+    "BOT_PASSWORD_MD5": "eb05bccb0add7ecdddcf8b61ad3e3b93",
+    "DEFAULT_LANGUAGE": "ru",
+    "DEBUG": true,
+    "WATERMARK_ON": false,
+    "WATERMARK_TEXT": "[CXH BOT]",
+    "WELCOME_ENABLED": true,
+    "WELCOME_TEXT": "CXH BOT это автоматический бот по заказам / cообщения с сайта starvell, наш бот может многое",
+    "WELCOME_COOLDOWN_MINUTES": 1900,
+    "SESSION_COOKIE": "e77bcec1-9756-4e65-a6d9-0ce8f5b9b709"
+}
