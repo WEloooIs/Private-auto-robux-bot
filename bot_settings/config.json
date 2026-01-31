@@ -1,0 +1,71 @@
+{
+    "playerok": {
+        "api": {
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZWZmZGQ0ZC1hM2JjLTY5MjAtMDdiZC1mNzkzNmJmNWZlZDIiLCJpZGVudGl0eSI6IjFmMDNiYTJjLWQxOTEtNjg0MC03Njc2LTU4YTQ2ZDhmN2UyNSIsInJvbGUiOiJVU0VSIiwidiI6MSwiaWF0IjoxNzY5ODkwNTcxLCJleHAiOjE4MDE0MjY1NzF9.6fWEGV8GQdrgLPWn3f3k_0udhpntzwhqyrdGWNK1ejk",
+            "user_agent": "",
+            "proxy": "",
+            "requests_timeout": 30
+        },
+        "watermark": {
+            "enabled": true,
+            "value": "©️ 𝗣𝗹𝗮𝘆𝗲𝗿𝗼𝗸 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹"
+        },
+        "read_chat": {
+            "enabled": true
+        },
+        "first_message": {
+            "enabled": true
+        },
+        "custom_commands": {
+            "enabled": true
+        },
+        "auto_deliveries": {
+            "enabled": true
+        },
+        "auto_restore_items": {
+            "sold": true,
+            "expired": false,
+            "all": true
+        },
+        "auto_bump_items": {
+            "enabled": false,
+            "interval": 3600,
+            "all": false
+        },
+        "auto_withdrawal": {
+            "enabled": false,
+            "interval": 86400,
+            "credentials_type": "",
+            "card_id": "",
+            "sbp_bank_id": "",
+            "sbp_phone_number": "",
+            "usdt_address": ""
+        },
+        "auto_complete_deals": {
+            "enabled": false
+        },
+        "tg_logging": {
+            "enabled": true,
+            "chat_id": "",
+            "events": {
+                "new_user_message": true,
+                "new_system_message": true,
+                "new_deal": true,
+                "new_review": true,
+                "new_problem": true,
+                "deal_status_changed": true
+            }
+        }
+    },
+    "telegram": {
+        "api": {
+            "token": "8399938114:AAH8zVJ9-gbwYnFDHSbWlV5NxyUMBTX6ANc"
+        },
+        "bot": {
+            "password": "030510",
+            "signed_users": [
+                1180611900
+            ]
+        }
+    }
+}
