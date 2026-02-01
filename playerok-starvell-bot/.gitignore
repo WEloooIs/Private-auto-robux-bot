@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.db
+logs/
+config/*.storageState.json
+playwright-report/
+test-results/
+config/*.storageState.json
+*.cookie
+*.cookies
+starvell*.json

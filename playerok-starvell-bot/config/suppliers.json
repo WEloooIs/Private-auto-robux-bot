@@ -1,0 +1,13 @@
+{
+  "maxConcurrency": 2,
+  "maxUnitPriceRub": 0.6,
+  "refreshPriceMs": 60000,
+  "priceSpreadRub": 0.02,
+  "suppliers": [
+    {
+      "id": "seller_1",
+      "offerUrl": "https://starvell.com/offers/72878",
+      "enabled": true
+    }
+  ]
+}

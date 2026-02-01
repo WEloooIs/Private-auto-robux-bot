@@ -1,7 +1,7 @@
 {
     "playerok": {
         "api": {
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZWZmZGQ0ZC1hM2JjLTY5MjAtMDdiZC1mNzkzNmJmNWZlZDIiLCJpZGVudGl0eSI6IjFmMDNiYTJjLWQxOTEtNjg0MC03Njc2LTU4YTQ2ZDhmN2UyNSIsInJvbGUiOiJVU0VSIiwidiI6MSwiaWF0IjoxNzY5ODkwNTcxLCJleHAiOjE4MDE0MjY1NzF9.6fWEGV8GQdrgLPWn3f3k_0udhpntzwhqyrdGWNK1ejk",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxZWZmZGQ0ZC1hM2JjLTY5MjAtMDdiZC1mNzkzNmJmNWZlZDIiLCJpZGVudGl0eSI6IjFmMDNiYTJjLWQxOTEtNjg0MC03Njc2LTU4YTQ2ZDhmN2UyNSIsInJvbGUiOiJVU0VSIiwidiI6MSwiaWF0IjoxNzY5NzkyNjUwLCJleHAiOjE4MDEzMjg2NTB9.hJiTyXSyWeYx4tLqNE-AANptvzLYbRMc9BJ2GXyQlsc",
             "user_agent": "",
             "proxy": "",
             "requests_timeout": 30
@@ -30,7 +30,9 @@
         "auto_bump_items": {
             "enabled": false,
             "interval": 3600,
-            "all": false
+            "all": false,
+            "day_max_sequence": 15,
+            "night_max_sequence": 30
         },
         "auto_withdrawal": {
             "enabled": false,
@@ -42,7 +44,7 @@
             "usdt_address": ""
         },
         "auto_complete_deals": {
-            "enabled": false
+            "enabled": true
         },
         "tg_logging": {
             "enabled": true,

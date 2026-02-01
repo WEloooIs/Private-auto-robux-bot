@@ -1,1 +1,0 @@
-﻿// Prisma schema lives in prisma/schema.prisma
